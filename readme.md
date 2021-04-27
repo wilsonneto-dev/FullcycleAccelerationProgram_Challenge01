@@ -45,9 +45,18 @@ cd FullcycleAccelerationProgram_Challenge01
 # now you can open http://localhost:8080
 ```
 
+<br />
+
+# 💻 Expected result
+
+Access: [http://localhost:8080](http://localhost:8080)
+
+The expected result is the SPA page consuming the API like bellow:
+
+![image](https://user-images.githubusercontent.com/20674439/116292234-db72b880-a76b-11eb-9cef-e77202289c65.png)
 
 
-<br /> <br />
+<br />
 
 # 🔗 Images and Links
 
