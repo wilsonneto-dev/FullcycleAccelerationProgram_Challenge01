@@ -28,5 +28,7 @@ docker run --network=$network_name -d --name api -e SERVER_PORT=$api_port -e DB_
 echo "runnnig the spa container"
 docker run --network=$network_name -d --name spa wilsonnetodev/pfa01spamodules
 
-echo "runnnig the reverse proxy"
-docker run --network=$network_name -d --name proxy -p 8080:80 wilsonnetodev/pfa01proxy
+echo "runnnig the reverse proxy (nginx container)"
+docker run --network=$network_name -d --name proxy -p 8080:80 nginxtest
+
+echo "everything is up, nginx is listenning on port 8080"
