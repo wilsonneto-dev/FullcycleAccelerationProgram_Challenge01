@@ -30,3 +30,5 @@ docker run --network=$network_name -d --name spa wilsonnetodev/spamodules:dev
 
 echo "runnnig the reverse proxy (nginx container)"
 docker run --network=$network_name -d --name proxy -p 8080:80 nginxtest
+
+echo "everything is up, nginx is listenning on port 8080"
