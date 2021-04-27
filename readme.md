@@ -56,7 +56,7 @@ cd FullcycleAccelerationProgram_Challenge01
 # :postbox: Get in touch to me
 
 **Twitch:** <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
-**E-mail:** hi@wilsonneto.com.br
+**E-mail:** hi@wilsonneto.com.br <br />
 **Linkedin:** [https://www.linkedin.com/in/wilsonnetobr/](https://www.linkedin.com/in/wilsonnetobr/)
 
 <br />
