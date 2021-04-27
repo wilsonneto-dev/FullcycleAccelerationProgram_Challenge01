@@ -48,24 +48,18 @@ cd FullcycleAccelerationProgram_Challenge01
 # 🔗 Images and Links
 
 **API:** <a target="_blank" href="https://hub.docker.com/repository/docker/wilsonnetodev/pfa01apimodules">API</a> (<a target="_blank" href="https://github.com/wilsonneto-dev/FullcycleAccelerationProgram_Challenge01/tree/master/app/front/modules">código</a>)<br />
-
 **SPA:** <a target="_blank" href="https://hub.docker.com/repository/docker/wilsonnetodev/pfa01spamodules">SPA</a> (<a target="_blank" href="https://github.com/wilsonneto-dev/FullcycleAccelerationProgram_Challenge01/tree/master/app/api">código</a>)<br />
-
 **Proxy:** <a target="_blank" href="https://hub.docker.com/repository/docker/wilsonnetodev/pfa01proxy">Nginx</a> (<a target="_blank" href="https://github.com/wilsonneto-dev/FullcycleAccelerationProgram_Challenge01/tree/master/nginx">código</a>)<br />
 
+
 <br />
-
-
-<br /> <br />
 # :postbox: Get in touch to me
 
 **Twitch:** <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
-
 **E-mail:** hi@wilsonneto.com.br
-
 **Linkedin:** [https://www.linkedin.com/in/wilsonnetobr/](https://www.linkedin.com/in/wilsonnetobr/)
 
-<br /> <br />
+<br />
 # :closed_book: License
 
 Released in 2021.
