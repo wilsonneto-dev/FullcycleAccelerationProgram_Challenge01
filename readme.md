@@ -15,7 +15,7 @@
 > Protecting the services under a private networking and exposing just a reverse proxy for the clients
 
 <p align="center">
-  <img align="center" src="/.github/diagram.jpg" width="500" border="0">
+  <img align="center" src="/.github/diagram.png" width="500" border="0">
 </p>
 
 # 📘 Infos
