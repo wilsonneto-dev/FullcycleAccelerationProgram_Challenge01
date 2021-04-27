@@ -41,6 +41,8 @@ Crie um arquivo README.md especificando quais comandos precisamos executar para 
 git clone https://github.com/wilsonneto-dev/FullcycleAccelerationProgram_Challenge01
 cd FullcycleAccelerationProgram_Challenge01
 ./up.sh
+
+# now you can open http://localhost:8080
 ```
 
 
